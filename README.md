@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jamesking020773
-- 👀 I’m interested in creatinga data driven web app using SQL
-- 🌱 I’m currently following the learn.microsoft example on Azure / SQL db setup
-- 💞️ I’m looking to collaborate on the basics
+- 👀 I’m interested in data driven web apps using SQL
+- 🌱 I’m currently learning Azure / SQL DB
+- 💞️ I’m looking to collaborate on a ML project using OpenAI
 - 📫 How to reach me: james.king020773@gmail.com
 
 <!---
